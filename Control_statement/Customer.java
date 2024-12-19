@@ -13,7 +13,7 @@ public class Customer {
             if(n<=15){
                 discount=n-((n*10)/100);
             }
-            else if(n>=16 && n<=30){
+            else if(n>=16 && n<=30){    
                 discount=n-((n*10)/100);
             }
             else if(n>=31 && n<=50){
